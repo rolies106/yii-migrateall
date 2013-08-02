@@ -15,11 +15,11 @@ Migrate up all modules
 
 
 ```bash
-    ./protected/yiic migrate
+./protected/yiic migrate
 
-    or
+or
 
-    ./protected/yiic migrate up    
+./protected/yiic migrate up    
 ```
 
 ## Copyrights
